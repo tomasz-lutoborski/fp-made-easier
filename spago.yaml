@@ -1,0 +1,40 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - lists
+    - maybe
+    - newtype
+    - prelude
+    - strings
+    - tuples
+    - integers
+    - nonempty
+    - foldable-traversable
+    - contravariant
+    - profunctor
+    - bifunctors
+    - either
+    - unfoldable
+    - unicode
+    - control
+    - arrays
+    - transformers
+    - aff
+    - avar
+    - datetime
+    - exceptions
+    - random
+    - aff-bus
+    - tailrec
+    - affjax
+    - foreign
+  name: purescript
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 46.1.0
